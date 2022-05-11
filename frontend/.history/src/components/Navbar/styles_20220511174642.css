@@ -1,0 +1,20 @@
+header {
+  background-color: var(--color-primary);
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+
+.dsmovie-nav-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dsmovie-contact-conteiner {
+  display: flex;
+}
+
+.dsmove-contact-link {
+  margin: 0;
+}
