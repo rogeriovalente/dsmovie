@@ -1,8 +1,0 @@
-header {
-  background-color: var(--color-primary);
-}
-
-.dsmovie-nav-content {
-  display: flex;
-  justify-content: space-between;
-}
